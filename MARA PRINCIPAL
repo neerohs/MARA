@@ -1,13 +1,13 @@
 #EXTM3U
 
 ---GLOBO---
-#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="GLOBO BAHIA  FHD (SALVADOR)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="SBT GLOBO RECORD",GLOBO BAHIA  FHD (SALVADOR)
+#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="GLOBO BAHIA  FHD (SALVADOR)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO",GLOBO BAHIA  FHD (SALVADOR)
 http://grtsvk.life:8080/mara00001/00001mara/71564
-#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="GLOBO BAHIA HD (SALVADOR)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="SBT GLOBO RECORD",GLOBO BAHIA HD (SALVADOR)
+#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="GLOBO BAHIA HD (SALVADOR)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO",GLOBO BAHIA HD (SALVADOR)
 http://grtsvk.life:8080/mara00001/00001mara/71565
-#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="Globo BRASILIA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="SBT GLOBO RECORD",Globo BRASILIA HD
+#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="Globo BRASILIA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO",Globo BRASILIA HD
 http://grtsvk.life:8080/mara00001/00001mara/71490
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERNACIONAL HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="SBT GLOBO RECORD",GLOBO INTERNACIONAL HD
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERNACIONAL HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO",GLOBO INTERNACIONAL HD
 http://grtsvk.life:8080/mara00001/00001mara/71493
 #EXTINF:-1 tvg-id="Globo Nordeste HD [Alter]" tvg-name="GLOBO NORDESTE" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO",GLOBO NORDESTE
 http://grtsvk.life:8080/mara00001/00001mara/71207
