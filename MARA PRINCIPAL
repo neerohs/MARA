@@ -1,18 +1,28 @@
 #EXTM3U
 
 ---GLOBO---
-#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="GLOBO BAHIA  FHD (SALVADOR)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO",GLOBO BAHIA  FHD (SALVADOR)
+#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="GLOBO BAHIA  FHD (SALVADOR)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="SBT GLOBO RECORD",GLOBO BAHIA  FHD (SALVADOR)
 http://grtsvk.life:8080/mara00001/00001mara/71564
-#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="Globo BRASILIA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO",Globo BRASILIA HD
+#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="GLOBO BAHIA HD (SALVADOR)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="SBT GLOBO RECORD",GLOBO BAHIA HD (SALVADOR)
+http://grtsvk.life:8080/mara00001/00001mara/71565
+#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="Globo BRASILIA HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="SBT GLOBO RECORD",Globo BRASILIA HD
 http://grtsvk.life:8080/mara00001/00001mara/71490
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERNACIONAL HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="SBT GLOBO RECORD",GLOBO INTERNACIONAL HD
+http://grtsvk.life:8080/mara00001/00001mara/71493
 #EXTINF:-1 tvg-id="Globo Nordeste HD [Alter]" tvg-name="GLOBO NORDESTE" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO",GLOBO NORDESTE
 http://grtsvk.life:8080/mara00001/00001mara/71207
 #EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO",GLOBO RJ FHD
 http://grtsvk.life:8080/mara00001/00001mara/71531
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO",GLOBO RJ HD
+http://grtsvk.life:8080/mara00001/00001mara/71494
 #EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO",GLOBO SP HD
 http://grtsvk.life:8080/mara00001/00001mara/71496
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD¹" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO",GLOBO SP HD¹
 http://grtsvk.life:8080/mara00001/00001mara/71573
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA ES. FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO",GLOBO VITORIA ES. FHD
+http://grtsvk.life:8080/mara00001/00001mara/71492
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VITORIA HD ES" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO",GLOBO VITORIA HD ES
+http://grtsvk.life:8080/mara00001/00001mara/71537
 #EXTINF:-1 tvg-id="" tvg-name="GLOGO SERGIPE" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO",GLOBO SERGIPE
 http://grtsvk.life:8080/mara00001/00001mara/71495
 
